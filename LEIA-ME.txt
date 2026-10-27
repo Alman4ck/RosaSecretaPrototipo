@@ -1,0 +1,16 @@
+ROSA SECRETA — SITE COM 3 PÁGINAS
+
+Páginas:
+- index.html — página inicial / apresentação da marca
+- produtos.html — catálogo com filtros por categoria, busca e ordenação por preço/nome
+- sobre.html — história, valores e identidade visual da marca
+
+Como abrir:
+1. Extraia todos os arquivos do ZIP.
+2. Abra index.html no navegador.
+3. Mantenha a pasta assets junto dos arquivos HTML.
+
+Tecnologias: HTML, CSS e JavaScript sem dependências de build.
+As imagens fornecidas foram incluídas na pasta assets e usadas como referências visuais.
+Os produtos e preços são exemplos demonstrativos. O botão de adicionar à sacola é apenas visual; não há checkout, estoque, login ou pagamento integrado.
+As fontes online usam Google Fonts e têm alternativas locais caso a conexão não esteja disponível.
